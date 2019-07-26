@@ -1,0 +1,8 @@
+body {
+  font-family: 'Athiti', sans-serif;
+  background-image: url(../img/Pattern.png)!important;
+  background-color: #f8bc00!important;
+  background-attachment: fixed!important;
+  background-size: cover!important;
+  overflow-x: hidden!important;
+}
